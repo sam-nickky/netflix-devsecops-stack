@@ -3,3 +3,5 @@ basic readme for deploying application via docker
 
 ==> Update Dckerfile
 ==> Update yml files on kubernetes
+==> Add Jenkinsfile for Pipeline
+==> update Monitoring setup
